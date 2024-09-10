@@ -93,12 +93,11 @@ The control and trial store pairs are as follows:
 - **Number of Customers**: Stores 77 and 86 both showed significant increases in customer numbers in at least two months.
 - **Store 88**: There was no statistically significant change in performance for total sales and number of customers.
 <p align="center">
-  <img width="30%" alt="Screenshot 2024-09-09 at 9 48 30 PM" src="https://github.com/user-attachments/assets/e632decd-8f58-4a48-82d1-35cb3d4fc95d">
-  <img width="30%" alt="Screenshot 2024-09-09 at 9 48 24 PM" src="https://github.com/user-attachments/assets/9c8c5720-c9df-48a3-ba0c-eadd1cc50829">
-  <img width="30%" alt="Screenshot 2024-09-09 at 9 48 18 PM" src="https://github.com/user-attachments/assets/96ce06f5-7063-4153-aa1d-99fdb1c8de40">
+    <img width="30%" alt="Screenshot 2024-09-09 at 9 48 18 PM" src="https://github.com/user-attachments/assets/96ce06f5-7063-4153-aa1d-99fdb1c8de40">
+  <img width="30%" alt="Screenshot 2024-09-09 at 9 48 24 PM" src="https://github.com/user-attachments/assets/9c8c5720-c9df-48a3-ba0c-eadd1cc50829">    <img width="30%" alt="Screenshot 2024-09-09 at 9 48 30 PM" src="https://github.com/user-attachments/assets/e632decd-8f58-4a48-82d1-35cb3d4fc95d">
 </p>
 <p align="center">
-  <img width="30%" alt="Screenshot 2024-09-10 at 3 21 46 AM" src="https://github.com/user-attachments/assets/b64c1793-27e2-47fe-bcb5-eb688fe13580">
-  <img width="30%" alt="Screenshot 2024-09-10 at 3 21 40 AM" src="https://github.com/user-attachments/assets/42e4fff6-fbf8-4d00-9f78-81e2eb444638">
   <img width="30%" alt="Screenshot 2024-09-10 at 3 21 33 AM" src="https://github.com/user-attachments/assets/271786ad-a929-4612-b155-8855692d95fd">
+  <img width="30%" alt="Screenshot 2024-09-10 at 3 21 40 AM" src="https://github.com/user-attachments/assets/42e4fff6-fbf8-4d00-9f78-81e2eb444638">
+  <img width="30%" alt="Screenshot 2024-09-10 at 3 21 46 AM" src="https://github.com/user-attachments/assets/b64c1793-27e2-47fe-bcb5-eb688fe13580">
 </p>
