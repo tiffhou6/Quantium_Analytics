@@ -37,33 +37,40 @@ The customer base is segmented by purchasing behavior—categorized into Budget,
 - 1.9 bags per transaction
 - 182.4g size on average
 ## **Task 1**
+
+### Total Sales by Month
 December shows the highest chip sales, likely due to increased holiday gatherings and celebrations (Christmas, New Year). This period presents a prime opportunity for targeted promotions. 
 
 ![sales:month](https://github.com/user-attachments/assets/1036d512-97f3-47dc-b87b-bd8716b70f79)
 
-Kettle is the leading chip brand, contributing 20% of total sales. 
-To maximize this, expanding shelf space and increasing promotional activities for these top brands is recommended. 
-Offering exclusive deals or loyalty rewards could help drive repeat purchases. 
-Underperforming brands should be reevaluated and promoted aggressively to boost visibility and sales. 
-If results don't improve, replacing these brands with those that have stronger market appeal should be considered. 
+### Total Sales by Chip Brand and Size
 
+Kettle is the leading chip brand, contributing 20% of total sales. 
 The 175g size is the most popular, accounting for 25.1% of total sales, followed by the 150g size at 15.7%. 
-Mid-range sizes, however, show weaker performance, likely due to perceived lower value.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52d84007-0456-4f7f-9ae3-0729822694dd" alt="sales:brand" width="45%" />
   <img src="https://github.com/user-attachments/assets/519fa662-19b3-45ec-b197-ff68806bb179" alt="sales:size" width="45%" />
 </p>
 
+### Total Sales by Premium Type and Lifestage
 Mainstream customers dominate purchasing behavior, accounting for 38.8% of total sales, followed by Budget at 35% and Premium at 26.2%. 
 
 Among the lifestage groups, Older Singles/Couples lead with 20.8% of total sales, followed by Retirees at 18.9% and Older Families at 18.3%. 
 Midage Singles/Couples and New Families show weaker performance, contributing 9.6% and 2.6%, respectively.
-This suggests a focus on older demographics could yield higher returns.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6858770b-b14c-4adc-bcb6-750bb4310217" alt="sales:pre2" width="45%" />
   <img src="https://github.com/user-attachments/assets/2f101bb9-cf6e-4298-aa1d-99f84007a106" alt="sales:life2" width="45%" />
 </p>
 
+## Strategic Recommendations
+1. Maximize December sales with holiday-themed promotions and limited-edition flavors. Implement a February recovery plan with attractive discounts.
+2. Expand shelf space and promotions for top brands. Highlight mid-range brands in gourmet sections. Reevaluate or replace underperforming brands.
+3. Prioritize stocking and promoting 175g and 150g sizes. Offer bulk discounts on larger sizes during events and holidays. Reevaluate or strategically promote lower-performing sizes.
+4. Target older demographics with premium and health-focused options. Promote family-size packs for young families. Introduce trendy flavors for young singles/couples. Develop targeted strategies for each lifestage segment.
+5. Focus on quality-at-reasonable-price promotions for mainstream customers. Offer discounts and multi-buy deals for budget customers. Emphasize quality and exclusivity for premium customers.
+   
 ## **RFM Segmentation Overview**
 RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers based on their purchasing behaviors. 
 Customers were scored on a 1- 5 scale across the three dimensions — Recency, Frequency, and Monetary — resulting in the identification of seven customer segments. .
@@ -73,6 +80,17 @@ Customers were scored on a 1- 5 scale across the three dimensions — Recency, F
   <img src="https://github.com/user-attachments/assets/51bb261c-0659-4295-b29f-3e4ad53f1c92" alt="seg:pre" width="45%" />
 </p>
 
+## Strategic Recommendations
+1. Sustain and grow high-value segments:
+    - Offer value packs and family-sized options for Older and Young Families
+    - Focus on premium offerings and personalized loyalty programs for Older Singles/Couples and Retirees
+2. Re-engage at-risk and inactive segments:
+    - Implement personalized reactivation campaigns for Young Singles/Couples and Retirees
+    - Introduce affordable, health-conscious products for Older Singles/Couples 
+3. Tailor strategies by premium type:
+    - Focus on retaining Mainstream customers with consistent quality and loyalty programs
+    - Expand engagement with Budget customers through value-driven promotions
+    - Nurture the Premium segment with exclusive offerings and personalized marketing
 
 ## **Task 2**
 Julia tasked us with evaluating the performance of a store trial conducted in stores 77, 86, and 88. The analysis focuses on the following key metrics:
