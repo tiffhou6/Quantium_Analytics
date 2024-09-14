@@ -1,10 +1,12 @@
 # **Quantium Data Analytics Virtual Internship**
 
-## **Project Overview:**
+## **Background and Project Overview:**
+
+As a member of Quantium's retail analytics team, I've been tasked by the Category Manager for Chips to conduct an analysis aimed at gaining deeper insights into customer segments that purchase chips and their purchasing patterns within the region. The findings from this analysis will play a key role in shaping the supermarket’s strategic decisions for the chips category over the next six months.
 
 This project consists of 3 tasks.
 
-> Task 1: Data preparation and customer behavior analysis
+> Task 1: Data preparation and customer analytics
 
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
