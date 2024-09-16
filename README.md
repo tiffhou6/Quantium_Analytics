@@ -93,7 +93,7 @@ Customers were scored on a 1- 5 scale across the three dimensions — Recency, F
     - Nurture the Premium segment with exclusive offerings and personalized marketing
 
 ## **Task 2**
-Julia tasked us with evaluating the performance of a store trial conducted in stores 77, 86, and 88. The analysis focuses on the following key metrics:
+Julia asked us to evaluate the performance of a store trial conducted in stores 77, 86, and 88. The analysis focuses on the following key metrics:
 
 1. Total Sales Revenue
 2. Total Number of Customers
