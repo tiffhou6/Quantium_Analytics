@@ -1,13 +1,13 @@
 # **Quantium Data Analytics Virtual Internship**
 
 ## Project Overview
-As part of Quantium’s retail analytics team, I analyzed customer segmentation and purchasing behaviors in the chips category to guide strategic decisions for the upcoming six months. The project is divided into three tasks:
+This project is part of Quantium's Data Analytics Virtual Internship, I analyzed customer segmentation and purchasing behaviors in the chips category to guide strategic decisions for the upcoming six months. The project is divided into three tasks:
 
 1. **Data Preparation and Customer Analytics**: Insights from transaction data to uncover customer purchasing patterns.
 2. **Experimentation and Uplift Testing**: Measure the impact of trial store layouts on customer sales.
 3. **Analytics and Commercial Application**: Develop a detailed report with actionable commercial insights.
 
-## Sales and Customer Overview
+## Sales and Customer Analysis
 
 ### Revenue Overview
 - **Total Yearly Revenue**: $1,934,415
@@ -24,87 +24,74 @@ As part of Quantium’s retail analytics team, I analyzed customer segmentation 
 - **Bags per Transaction**: 1.9
 - **Average Bag Size**: 182.4g
 
-![customer](https://github.com/user-attachments/assets/1011a652-c32e-42c8-8241-8cb230557388)
+### Customer Demographics
+- **Lifestage Segmentation**: The majority of customers belong to **Older Singles/Couples** and **Retirees**, followed by **Young Singles/Couples** and **Older Families**.
+- **Premium Type Distribution**: 
+  - **Mainstream** customers dominate, particularly in **Older demographics**.
+  - **Premium** customers epresent a minor portion, dominated by **Older Singles/Couples**, **Retirees**, and **Young Singles/Couples**.
+  - **Budget** customers has the most significant share in **Older demographics** as well.
+
+Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/QuantiumChipAnalysis/Dashboard1?publish=yes) for live and interactive dashboards.
+
+<img width="995" alt="Quantium Chip Analysis" src="https://github.com/user-attachments/assets/e54b9cee-da4d-435c-88e7-9132ced89122">
 
 
+#### **1. Total Sales by Month**
+December shows the highest chip sales, likely due to increased holiday gatherings and celebrations (Christmas, New Year). This period presents a prime opportunity for targeted promotions.
 
+#### **2. Total Sales by Chip Brand and Size**
+- **Top Brand**: Kettle is the leading chip brand, contributing **20%** of total sales.
+- **Top Size**: The **175g** size is the most popular, accounting for **25.1%** of total sales, followed by the **150g** size at **15.7%**.
 
+#### **3. Total Sales by Premium Type Lifestage**
+- **Mainstream** customers dominate purchasing behavior, accounting for **38.8%** of total sales.
+- **Budget** customers contribute **35%**, and **Premium** customers account for **26.2%**.
 
-## **Task 1**
+#### **4. Total Sales by Lifestage**
+- **Older Singles/Couples** lead with **20.8%** of total sales.
+- **Retirees** follow closely at **18.9%**, with **Older Families** contributing **18.3%**.
+- **Midage Singles/Couples** and **New Families** show weaker performance, contributing **9.6%** and **2.6%**, respectively.
 
-### Total Sales by Month
-December shows the highest chip sales, likely due to increased holiday gatherings and celebrations (Christmas, New Year). This period presents a prime opportunity for targeted promotions. 
-
-![sales:month](https://github.com/user-attachments/assets/1036d512-97f3-47dc-b87b-bd8716b70f79)
-
-### Total Sales by Chip Brand and Size
-
-Kettle is the leading chip brand, contributing 20% of total sales. 
-The 175g size is the most popular, accounting for 25.1% of total sales, followed by the 150g size at 15.7%. 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52d84007-0456-4f7f-9ae3-0729822694dd" alt="sales:brand" width="45%" />
-  <img src="https://github.com/user-attachments/assets/519fa662-19b3-45ec-b197-ff68806bb179" alt="sales:size" width="45%" />
-</p>
-
-### Total Sales by Premium Type and Lifestage
-Mainstream customers dominate purchasing behavior, accounting for 38.8% of total sales, followed by Budget at 35% and Premium at 26.2%. 
-
-Among the lifestage groups, Older Singles/Couples lead with 20.8% of total sales, followed by Retirees at 18.9% and Older Families at 18.3%. 
-Midage Singles/Couples and New Families show weaker performance, contributing 9.6% and 2.6%, respectively.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6858770b-b14c-4adc-bcb6-750bb4310217" alt="sales:pre2" width="45%" />
-  <img src="https://github.com/user-attachments/assets/2f101bb9-cf6e-4298-aa1d-99f84007a106" alt="sales:life2" width="45%" />
-</p>
-
---- 
-
-### Strategic Recommendations
-1. Maximize December sales with holiday-themed promotions and limited-edition flavors. Implement a February recovery plan with attractive discounts.
-2. Expand shelf space and promotions for top brands. Highlight mid-range brands in gourmet sections. Reevaluate or replace underperforming brands.
-3. Prioritize stocking and promoting 175g and 150g sizes. Offer bulk discounts on larger sizes during events and holidays. Reevaluate or strategically promote lower-performing sizes.
-4. Target older demographics with premium and health-focused options. Promote family-size packs for young families. Introduce trendy flavors for young singles/couples. Develop targeted strategies for each lifestage segment.
-5. Focus on quality-at-reasonable-price promotions for mainstream customers. Offer discounts and multi-buy deals for budget customers. Emphasize quality and exclusivity for premium customers.
-   
-## **RFM Segmentation**
-RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers based on their purchasing behaviors. 
-Customers were scored on a 1- 5 scale across the three dimensions — Recency, Frequency, and Monetary — resulting in the identification of seven customer segments. .
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4b8160aa-af56-4086-8f33-4ae6ab972746" alt="seg:life" width="45%" />
-  <img src="https://github.com/user-attachments/assets/51bb261c-0659-4295-b29f-3e4ad53f1c92" alt="seg:pre" width="45%" />
-</p>
-
+#### **5. RFM Segmentation**
+RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers based on their purchasing behaviors, resulting in the identification of seven customer segments. Customers were scored on a 1-5 scale across the three dimensions:
+-  **Recency**   - **Average Recency**: **104.64**
+-  **Frequency**   - **Average Frequency**: **3.65**
+-  **Monetary**  - **Average Monetary**: **26.63**
+    
 ---
 
-### Strategic Recommendations
-1. Sustain and grow high-value segments:
-    - Offer value packs and family-sized options for Older and Young Families
-    - Focus on premium offerings and personalized loyalty programs for Older Singles/Couples and Retirees
-2. Re-engage at-risk and inactive segments:
-    - Implement personalized reactivation campaigns for Young Singles/Couples and Retirees
-    - Introduce affordable, health-conscious products for Older Singles/Couples 
-3. Tailor strategies by premium type:
-    - Focus on retaining Mainstream customers with consistent quality and loyalty programs
-    - Expand engagement with Budget customers through value-driven promotions
-    - Nurture the Premium segment with exclusive offerings and personalized marketing
+### Recommendations:
 
-## **Task 2**
+1. **Maximize Seasonal Sales:** Leverage December’s peak with holiday-themed promotions and limited-edition flavors. Implement a February recovery plan with attractive discounts.
+
+2. **Optimize Brand Strategy:**  Increase shelf space for top-performing brands, highlight mid-range options in gourmet sections, and reevaluate underperforming brands for potential replacement.
+
+3. **Focus on Popular Sizes:**  Prioritize the 175g and 150g sizes for stocking and promotions. Offer bulk discounts during holidays and events, and reconsider strategies for lower-performing sizes.
+
+4. **Target Specific Demographics:** Cater to older demographics with premium and health-conscious options. Promote family-size packs for young families, and introduce trendy flavors for younger singles/couples with tailored strategies for each life stage.
+
+5. **Tailor Promotions by Segment:** Focus on value-for-money promotions for mainstream customers, offer multi-buy deals for budget-conscious buyers, and emphasize quality and exclusivity for premium customers.
+
+6. **Enhance Family Offerings:** Provide value packs and family-size options for Older and Young Families. Create personalized loyalty programs for Older Singles/Couples and Retirees.
+
+7. **Reactivate Inactive Segments:** Implement personalized reactivation campaigns for Young Singles/Couples and Retirees. Introduce affordable, health-focused products for Older Singles/Couples.
+
+8. **Strengthen Customer Retention:** Maintain Mainstream customer engagement with consistent quality and loyalty programs. Boost Budget customer retention with value-driven promotions, and nurture Premium segments with exclusive offerings and personalized marketing.
+
+## Trial Store Performance
 Julia asked us to evaluate the performance of a store trial conducted in stores 77, 86, and 88. The analysis focuses on the following key metrics:
 
-1. Total Sales Revenue
-2. Total Number of Customers
-3. Average Number of Transactions per Customer
+1. **Total Sales Revenue**
+2. **Total Number of Customers**
+3. **Average Number of Transactions per Customer**
 
 ### Methodology
 We used Pearson correlations and normalized magnitude distance to assess store performance, generating a combined score. Hypothesis testing was then applied to determine if there were significant differences in the performance of the control stores (those with the highest scores) compared to the trial stores.
 
 ### Control and Trial Store Pairs
-The control and trial store pairs are as follows:
-- Store 77 and Store 233
-- Store 86 and Store 155
-- Store 88 and Store 40
+- **Store 77 and Store 233**
+- **Store 86 and Store 155**
+- **Store 88 and Store 40**
 
 ### Key Insights
 - **Total Sales**: Store 77 experienced a statistically significant increase in total sales during March and April, exceeding the 95% control threshold. Store 86 saw a significant increase in March.
