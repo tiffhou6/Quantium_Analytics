@@ -1,41 +1,35 @@
 # **Quantium Data Analytics Virtual Internship**
 
-## **Background and Project Overview:**
+## Project Overview
+As part of Quantium’s retail analytics team, I analyzed customer segmentation and purchasing behaviors in the chips category to guide strategic decisions for the upcoming six months. The project is divided into three tasks:
 
-As a member of Quantium's retail analytics team, I've been tasked by the Category Manager for Chips to conduct an analysis aimed at gaining deeper insights into customer segments that purchase chips and their purchasing patterns within the region. The findings from this analysis will play a key role in shaping the supermarket’s strategic decisions for the chips category over the next six months.
+1. **Data Preparation and Customer Analytics**: Insights from transaction data to uncover customer purchasing patterns.
+2. **Experimentation and Uplift Testing**: Measure the impact of trial store layouts on customer sales.
+3. **Analytics and Commercial Application**: Develop a detailed report with actionable commercial insights.
 
-This project consists of 3 tasks.
+## Sales and Customer Overview
 
-> Task 1: Data preparation and customer analytics
+### Revenue Overview
+- **Total Yearly Revenue**: $1,934,415
+- **Units Sold**: 505,124 bags
+- **Average Price per Bag**: $3.83
 
-Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
+### Store Performance Metrics
+- **Daily Sales**: $5,314
+- **Bags Sold Daily**: 1,388
+- **Monthly Sales**: $161,201
 
-> Task 2: Experimentation and uplift testing
+### Average Transaction Metrics
+- **Revenue per Transaction**: $7.3
+- **Bags per Transaction**: 1.9
+- **Average Bag Size**: 182.4g
 
-Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
-
-> Task 3: Analytics and commercial application
-
-Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
-
-## **Customer Overview**
-
-The customer base is segmented by purchasing behavior—categorized into Budget, Mainstream, and Premium—and by life stages, covering a total population of 72,637.
 ![customer](https://github.com/user-attachments/assets/1011a652-c32e-42c8-8241-8cb230557388)
-## Sales Overview
 
-**Total yearly revenue**: **$1,934,415**, with a total of **505,124** units sold.  
-**Average price per bag**: **$3.83**
 
-### Average Store Sales
-- Daily sales: $5314
-- Daily sold quantity: 1,388 bags
-- Monthly sales: $161201 
 
-### Average Transaction
-- $7.3 per transaction
-- 1.9 bags per transaction
-- 182.4g size on average
+
+
 ## **Task 1**
 
 ### Total Sales by Month
@@ -64,14 +58,16 @@ Midage Singles/Couples and New Families show weaker performance, contributing 9.
   <img src="https://github.com/user-attachments/assets/2f101bb9-cf6e-4298-aa1d-99f84007a106" alt="sales:life2" width="45%" />
 </p>
 
-## Strategic Recommendations
+--- 
+
+### Strategic Recommendations
 1. Maximize December sales with holiday-themed promotions and limited-edition flavors. Implement a February recovery plan with attractive discounts.
 2. Expand shelf space and promotions for top brands. Highlight mid-range brands in gourmet sections. Reevaluate or replace underperforming brands.
 3. Prioritize stocking and promoting 175g and 150g sizes. Offer bulk discounts on larger sizes during events and holidays. Reevaluate or strategically promote lower-performing sizes.
 4. Target older demographics with premium and health-focused options. Promote family-size packs for young families. Introduce trendy flavors for young singles/couples. Develop targeted strategies for each lifestage segment.
 5. Focus on quality-at-reasonable-price promotions for mainstream customers. Offer discounts and multi-buy deals for budget customers. Emphasize quality and exclusivity for premium customers.
    
-## **RFM Segmentation Overview**
+## **RFM Segmentation**
 RFM (Recency, Frequency, Monetary) analysis was conducted to segment customers based on their purchasing behaviors. 
 Customers were scored on a 1- 5 scale across the three dimensions — Recency, Frequency, and Monetary — resulting in the identification of seven customer segments. .
 
@@ -80,7 +76,9 @@ Customers were scored on a 1- 5 scale across the three dimensions — Recency, F
   <img src="https://github.com/user-attachments/assets/51bb261c-0659-4295-b29f-3e4ad53f1c92" alt="seg:pre" width="45%" />
 </p>
 
-## Strategic Recommendations
+---
+
+### Strategic Recommendations
 1. Sustain and grow high-value segments:
     - Offer value packs and family-sized options for Older and Young Families
     - Focus on premium offerings and personalized loyalty programs for Older Singles/Couples and Retirees
