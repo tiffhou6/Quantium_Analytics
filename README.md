@@ -33,7 +33,8 @@ This project is part of Quantium's Data Analytics Virtual Internship, I analyzed
 
 Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/QuantiumChipAnalysis/Dashboard1?publish=yes) for live and interactive dashboards.
 
-<img width="995" alt="Quantium Chip Analysis" src="https://github.com/user-attachments/assets/e54b9cee-da4d-435c-88e7-9132ced89122">
+<img width="997" alt="Screenshot 2024-10-04 at 8 01 28 AM" src="https://github.com/user-attachments/assets/be2426bb-d65c-41dd-aedd-da9cd8dc8149">
+
 
 
 #### **1. Total Sales by Month**
